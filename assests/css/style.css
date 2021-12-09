@@ -1,0 +1,262 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#sect1 {
+  background-color: #071c1f;
+}
+
+#container1 ul li {
+  list-style: none;
+}
+
+.top-menu ul li a {
+  color: white;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.top-menu ul li a:hover {
+  color: red;
+}
+
+.top-right ul li a {
+  color: white;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.top-button a {
+  background-color: tomato;
+  text-decoration: none;
+}
+
+.top-button a:hover {
+  background-color: #922916;
+}
+
+.top-menu ul li {
+  display: inline-block;
+  padding-top: 6px;
+}
+
+.top-right ul li {
+  display: inline-block;
+}
+
+.top-right {
+  margin: 15px;
+}
+
+#icon1 {
+  padding: 10px;
+  color: red;
+}
+
+#icon2 {
+  padding: 10px;
+  color: red;
+}
+
+.navbar-list ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+.navbar-list ul li {
+  float: left;
+}
+
+.navbar-list ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar-list ul li a:hover {
+  color: red;
+}
+
+#sect2 {
+  margin: 15px;
+}
+
+.icons i {
+  display: inline-block;
+  box-shadow: 6px 0px 2px #ece9e9;
+}
+
+.icons i {
+  float: left;
+  padding: 15px 20px;
+}
+
+.icons i:hover {
+  background-color: tomato;
+}
+
+.contactus ul li a i {
+  color: red;
+  padding: 5px;
+}
+
+.contactus ul li a {
+  text-decoration: none;
+  color: gray;
+}
+
+.contactus ul li a:hover {
+  color: red;
+}
+
+.contactus ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.contactus h1 {
+  padding: 18px;
+}
+
+#main1 {
+  background-color: #f2f6f7;
+}
+
+.contactus {
+  padding: 50px;
+}
+
+#box1 {
+  box-shadow: 1px 0px 2px #dad5d5;
+  text-align: center;
+}
+
+#box2 {
+  box-shadow: 1px 0px 2px #dad5d5;
+  text-align: center;
+}
+
+#box3 {
+  box-shadow: 1px 0px 2px #dad5d5;
+  text-align: center;
+}
+
+#boxs {
+  padding: 120px;
+}
+
+#boxs h3 p {
+  padding: 25px;
+  margin: 30px;
+}
+
+.finished {
+  background-color: #161620;
+  color: white;
+}
+
+.address ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+.telephone p:hover {
+  color: red;
+}
+
+.email p:hover {
+  color: red;
+}
+
+.companylist ul li {
+  list-style: none;
+  padding: 9px;
+}
+
+.companylist ul li a {
+  transition: 1s;
+  text-decoration: none;
+  color: white;
+}
+
+.companylist ul li a:hover {
+  transform: translateX(25px);
+  margin-left: 10px;
+  color: red;
+}
+
+.serviceslist ul li {
+  list-style: none;
+  padding: 9px;
+}
+
+.serviceslist ul li a {
+  transition: 1s;
+  text-decoration: none;
+  color: white;
+}
+
+.serviceslist ul li a:hover {
+  transform: translateX(25px);
+  margin-left: 10px;
+  color: red;
+}
+
+.customerlist ul li {
+  list-style: none;
+  padding: 9px;
+}
+
+.customerlist ul li a {
+  transition: 1s;
+  text-decoration: none;
+  color: white;
+}
+
+.customerlist ul li a:hover {
+  margin-left: 10px;
+  transform: translateX(25px);
+  color: red;
+}
+
+.iconss ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+}
+
+.iconss ul li a {
+  color: white;
+}
+
+#end {
+  background-color: #282b38;
+}
+
+#listend ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+}
+
+#listend ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+#listend ul li a:hover {
+  color: tomato;
+}
+
+#listend ul li {
+  float: right;
+}
+/*# sourceMappingURL=style.css.map */
